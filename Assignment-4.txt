@@ -1,0 +1,25 @@
+#include <stdio.h>
+int main(){
+
+int mynum ;
+printf("enter your number :");
+scanf("%d" , &mynum);
+
+printf("your result : \n");
+printf("%d x 1 = %d \n",mynum, mynum*1 );
+printf("%d x 2 = %d \n",mynum, mynum*2 );
+printf("%d x 3 = %d \n",mynum, mynum*3 );
+printf("%d x 4 = %d \n",mynum, mynum*4 );
+printf("%d x 5 = %d \n",mynum, mynum*5 );
+printf("%d x 6 = %d \n",mynum, mynum*6 );
+printf("%d x 7 = %d \n",mynum, mynum*7 );
+printf("%d x 8 = %d \n",mynum, mynum*8 );
+printf("%d x 9 = %d \n",mynum, mynum*9 );
+printf("%d x 10 = %d \n",mynum, mynum*10 );
+
+
+
+
+   return 0;
+}
+
